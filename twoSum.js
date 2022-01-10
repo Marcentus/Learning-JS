@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/two-sum/
+// First attempt
 // var twoSum = function (nums, target) {
 //   for (let index = 0; index < nums.length; index++) {
 //     const element1 = nums[index]
@@ -15,6 +17,7 @@
 //   }
 // }
 
+// for of
 const twoSum = (nums, target) => {
   const pairs = {}
   for (const num of nums) {
@@ -27,6 +30,7 @@ const twoSum = (nums, target) => {
       return [alterEgo, num]
     }
   }
+  // forEach
   // nums.forEach((num) => {
   //   const alterEgo = target - num
   //   pairs[num] = alterEgo
