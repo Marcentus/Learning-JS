@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/challenges/sock-merchant/problem
 const socks = (nums) => {
   const pairs = {}
   let numPairs = 0
