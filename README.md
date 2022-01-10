@@ -4,5 +4,11 @@ Personal learning project for JS
 
 ## Projects TO-DO
 
-SOCKS Project
-268 on leetcode
+268 on leetcode\
+Basic Node.js Server\
+Basic REST API\
+URL Shortener\
+Paginated API
+
+Amazon Web Scraper\
+Stripe Payments
